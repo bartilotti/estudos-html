@@ -1,2 +1,2 @@
 # html
- exerc do curso em vídeo 
+ estudos sobre html e css 
