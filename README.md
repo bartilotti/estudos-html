@@ -1,2 +1,2 @@
 # html
- estudos sobre html e css 
+ Exercícios e conceitos de HTML e CSS para estudar
